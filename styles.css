@@ -11,7 +11,7 @@
       rgba(28, 54, 51, 0.9),
       rgba(28, 54, 51, 0.3)
     ),
-    url(./images/LOLO3.jpg);
+    url(./LOLO3.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -303,7 +303,7 @@ h3 {
       rgba(28, 54, 51, 0.9),
       rgba(28, 54, 51, 0.3)
     ),
-    url(./images/CTAbanner.jpg);
+    url(./CTAbanner.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
